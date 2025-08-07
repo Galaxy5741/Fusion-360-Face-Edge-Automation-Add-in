@@ -120,6 +120,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Acknowledgments
 
+- **Developed with Claude AI** - This add-in was created through collaboration with Claude AI
+- **Inspired by Shapr3D** - The intuitive click-to-command workflow concept comes from Shapr3D's excellent UX design
 - Built for the Fusion 360 community
 - Inspired by the need for faster CAD workflows
 - Thanks to all users who provided feedback and testing
