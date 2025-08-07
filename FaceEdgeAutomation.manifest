@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "FaceEdgeAutomation", 
+    "author": "Open Source Community",
+    "description": {
+        "": "Automatic face extrude and edge fillet detection - click faces for extrude, click edges for fillet"
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows",
+    "editEnabled": true
+}
